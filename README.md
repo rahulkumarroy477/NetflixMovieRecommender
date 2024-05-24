@@ -7,6 +7,10 @@ Visit the website: https://netflixmovierecommender.onrender.com/
 
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/320px-Netflix_2015_logo.svg.png)
 
+# Demo
+
+![Demo gif for output](liveDemo.gif)
+
 ## Introduction
 
 Welcome to our Netflix Movie Recommender System! This project aims to provide personalized movie recommendations to users based on their preferences and viewing history, similar to how Netflix suggests content to its users. The system uses machine learning algorithms to analyze user behavior and movie metadata to generate recommendations.
