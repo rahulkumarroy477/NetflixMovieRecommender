@@ -66,7 +66,7 @@ function recommendation() {
                     titles = [];
                     overview = [];
                     posterPaths = [];
-                }, 2000);
+                }, 5000);
             })
             .catch(error => console.error('Error fetching movie details:', error));
 
