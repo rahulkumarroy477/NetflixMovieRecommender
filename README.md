@@ -1,5 +1,4 @@
-Visit the website: https://rahulkumarroy477.github.io/NetflixMovieRecommender/
-
+Visit the website: https://netflixmovierecommender.onrender.com/
 
 
 ---
