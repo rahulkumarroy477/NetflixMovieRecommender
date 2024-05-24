@@ -26,7 +26,7 @@ Welcome to our Netflix Movie Recommender System! This project aims to provide pe
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- ![**Dataset**](https://www.kaggle.com/datasets/balaka18/tmdb-top-10000-popular-movies-dataset)
+- **Dataset**: https://www.kaggle.com/datasets/balaka18/tmdb-top-10000-popular-movies-dataset
 - **Machine Learning**: Mostly cosine_similarity
 
 ## Getting Started
@@ -36,7 +36,7 @@ To run the Netflix Movie Recommender System locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/netflix-recommender.git
+   git clone https://github.com/rahulkumarroy477/netflix-recommender.git
    ```
 
 2. Install dependencies:
