@@ -19,18 +19,15 @@ Welcome to our Netflix Movie Recommender System! This project aims to provide pe
 - **Responsive Design**: The user interface is designed to be responsive, ensuring a seamless experience across devices of all sizes.
 
 ## How It Works
-
-1. **User Registration**: Users can create an account and provide information about their movie preferences during registration.
-2. **Viewing History**: The system tracks users' viewing history and analyzes their interactions with movies.
-3. **Machine Learning Algorithms**: Our recommendation engine employs various machine learning algorithms, such as collaborative filtering and content-based filtering, to generate personalized recommendations.
-4. **Recommendation Generation**: Based on the user's profile and viewing history, the system generates a list of recommended movies.
-5. **Frontend Display**: The recommended movies are displayed on the frontend, resembling the Netflix landing page, with detailed information about each movie.
+1. **Machine Learning Algorithms**: Our recommendation engine employs various machine learning algorithms, such as collaborative filtering and content-based filtering, to generate personalized recommendations.
+2. **Recommendation Generation**: Based on the user's profile and viewing history, the system generates a list of recommended movies.
+3. **Frontend Display**: The recommended movies are displayed on the frontend, resembling the Netflix landing page, with detailed information about each movie.
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Machine Learning**: Python, scikit-learn, TensorFlow
+- **Frontend**: HTML, CSS, JavaScript
+- ![**Dataset**](https://www.kaggle.com/datasets/balaka18/tmdb-top-10000-popular-movies-dataset)
+- **Machine Learning**: Mostly cosine_similarity
 
 ## Getting Started
 
@@ -71,10 +68,6 @@ You can help to improve the ui of the page
 - Make your changes and test them thoroughly.
 - Submit a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to customize this README template according to your project's specific details and requirements. Good luck with your Netflix Movie Recommender System! 🎬🍿
