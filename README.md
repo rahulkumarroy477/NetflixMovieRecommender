@@ -1,3 +1,7 @@
+# Note: 
+I don't know why but TMDB api will not work on JIO network, you will get undefind.
+I am looking for solutions, if any one finds the solution do send me pull request
+
 Visit the website: https://netflixmovierecommender.onrender.com/
 
 
